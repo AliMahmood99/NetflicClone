@@ -1,4 +1,4 @@
-# NetflicClone
+# NetflixClone
 
 
 
